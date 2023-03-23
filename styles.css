@@ -1,0 +1,22 @@
+
+body{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+  }
+  .container{
+    max-width: 400px;
+  }
+
+h1{
+  color: white;
+}
+
+.icon{
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+}
